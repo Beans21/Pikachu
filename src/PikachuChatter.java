@@ -1,6 +1,7 @@
 
 public class PikachuChatter {
-
+//This program prints out two lines and two pikachus!
+	
 	public static void main(String[] args) {
 		System.out.println("    Pika pika pika chu pika chu peeeee ka pika chu!");
 		Pikachu();
